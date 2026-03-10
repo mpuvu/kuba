@@ -1,0 +1,14 @@
+{
+  "playlist_id": "test001",
+  "title": "Ma Playlist Test",
+  "tracks": [
+    {
+      "title": "Morceau 1",
+      "url": "https://raw.githubusercontent.com/mpuvu/kuba/main/mp3/track1.mp3"
+    },
+    {
+      "title": "Morceau 2",
+      "url": "https://raw.githubusercontent.com/mpuvu/kuba/main/mp3/track2.mp3"
+    }
+  ]
+}
