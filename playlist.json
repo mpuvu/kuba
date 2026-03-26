@@ -1,6 +1,7 @@
 {
   "playlist_id": "test001",
   "title": "Ma Playlist Test",
+  "motion_url": "https://ton-serveur.com/BAKESTRY-motion-v3.mov",
   "tracks": [
     {
       "title": "Morceau 1",
