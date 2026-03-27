@@ -1,6 +1,7 @@
 {
   "playlist_id": "test001",
   "title": "Ma Playlist Test",
+  "artwork_url": "https://ton-serveur.com/BAKESTRY-600.jpg"
   "motion_url": "https://raw.githubusercontent.com/mpuvu/kuba/main/BAKESTRY-motion-top.mov",
   "tracks": [
     {
