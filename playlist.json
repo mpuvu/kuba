@@ -1,7 +1,7 @@
 {
   "playlist_id": "test001",
   "title": "Ma Playlist Test",
-  "motion_url": "https://raw.githubusercontent.com/mpuvu/kuba/main/BAKESTRY-motion-v2.mov",
+  "motion_url": "https://raw.githubusercontent.com/mpuvu/kuba/main/BAKESTRY-motion-v2.1.mov",
   "tracks": [
     {
       "title": "Morceau 1",
